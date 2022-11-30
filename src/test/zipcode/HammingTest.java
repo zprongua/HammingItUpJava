@@ -7,7 +7,6 @@ import zipcode.Hamming;
 
 import static org.junit.Assert.assertEquals;
 
-
 public class HammingTest {
 
     @Rule
